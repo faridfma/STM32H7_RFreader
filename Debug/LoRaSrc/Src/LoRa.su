@@ -1,0 +1,8 @@
+../LoRaSrc/Src/LoRa.c:55:6:TestLoRaModuleComms	56	static,ignoring_inline_asm
+../LoRaSrc/Src/LoRa.c:111:6:ProcessRxLoraDataForConsoleDisplay	56	static
+../LoRaSrc/Src/LoRa.c:145:6:StartRSSIToneTest	32	static
+../LoRaSrc/Src/LoRa.c:174:6:SendLoRaDataPacket	136	static,ignoring_inline_asm
+../LoRaSrc/Src/LoRa.c:230:6:ProcessRxLoRaMsg	136	static
+../LoRaSrc/Src/LoRa.c:274:6:QueryLoRaModule	16	static
+../LoRaSrc/Src/LoRa.c:315:6:ReadRcvMsgRRSI	16	static
+../LoRaSrc/Src/LoRa.c:321:6:SendLoraMsg	16	static

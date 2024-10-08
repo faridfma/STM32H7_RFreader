@@ -1,0 +1,5 @@
+../UHF_TagReader/Src/LoRaWAN.c:15:6:TestLoRaModuleComms	22
+../UHF_TagReader/Src/LoRaWAN.c:68:6:ProcessRxLoraDataForConsoleDisplay	2
+../UHF_TagReader/Src/LoRaWAN.c:95:6:StartRSSIToneTest	20
+../UHF_TagReader/Src/LoRaWAN.c:130:6:SendLoRaDataPacket	21
+../UHF_TagReader/Src/LoRaWAN.c:172:6:ProcessRxLoRaMsg	4

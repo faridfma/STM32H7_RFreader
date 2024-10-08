@@ -1,0 +1,4 @@
+../RFIDreader/Src/RFIDreader.c:60:6:SetUpRFIDreader	272	static
+../RFIDreader/Src/RFIDreader.c:188:6:ProcessReceivedData	80	static
+../RFIDreader/Src/RFIDreader.c:269:6:ScanForTags	8	static
+../RFIDreader/Src/RFIDreader.c:292:10:ReadRxDataSize	4	static

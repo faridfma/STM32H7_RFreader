@@ -1,0 +1,8 @@
+../LoRaSrc/Src/LoRa.c:55:6:TestLoRaModuleComms	24
+../LoRaSrc/Src/LoRa.c:111:6:ProcessRxLoraDataForConsoleDisplay	4
+../LoRaSrc/Src/LoRa.c:145:6:StartRSSIToneTest	20
+../LoRaSrc/Src/LoRa.c:174:6:SendLoRaDataPacket	22
+../LoRaSrc/Src/LoRa.c:230:6:ProcessRxLoRaMsg	6
+../LoRaSrc/Src/LoRa.c:274:6:QueryLoRaModule	2
+../LoRaSrc/Src/LoRa.c:315:6:ReadRcvMsgRRSI	1
+../LoRaSrc/Src/LoRa.c:321:6:SendLoraMsg	1

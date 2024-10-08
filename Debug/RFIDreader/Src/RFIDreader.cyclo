@@ -1,0 +1,4 @@
+../RFIDreader/Src/RFIDreader.c:60:6:SetUpRFIDreader	9
+../RFIDreader/Src/RFIDreader.c:188:6:ProcessReceivedData	8
+../RFIDreader/Src/RFIDreader.c:269:6:ScanForTags	3
+../RFIDreader/Src/RFIDreader.c:292:10:ReadRxDataSize	1
